@@ -1,1 +1,1 @@
-Some experiments with ML in google colab
+Some experiments in google colab
